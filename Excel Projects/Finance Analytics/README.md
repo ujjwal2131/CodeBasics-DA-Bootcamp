@@ -2,7 +2,7 @@
 
 - **Key Features:**
    1. Profit and Loss Statement.
-   2. Profit and Loss Statement.
+   2. Customizable Time Periods.
    3. Expense Categorization with Revenue Analysis.
 - **Benefits:**
    1. P & L statement include several criteria metrics such as ‘Net Sales’, ‘COGS’, ‘GM’, ‘GM%’ etc. These metrics evaluate 
